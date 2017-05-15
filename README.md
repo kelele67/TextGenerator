@@ -1,2 +1,2 @@
 # TextGenerator
-My First Data Mining Homework
+My Data Mining First Homework
